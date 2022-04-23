@@ -1,0 +1,44 @@
+name: sound_touch
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter_svg: ^1.0.3
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  audioplayers: ^0.20.1
+
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  assets:
+    - assets/audio/domestic/
+    - assets/audio/wild/
+    - assets/audio/music/
+    - assets/audio/transport/
+    - assets/jpg/domestic/
+    - assets/jpg/wild/
+    - assets/jpg/music/
+    - assets/jpg/transport/
+    - assets/png/domestic/
+    - assets/png/wild/
+    - assets/png/music/
+    - assets/png/transport/
+    - assets/svg/
+
+
+
+  uses-material-design: true
+
