@@ -1,16 +1,27 @@
-# sound_touch
+# Sound Touch App Clone
 
-A new Flutter project.
+My 7th project: Sound App clone
 
-## Getting Started
+## What is the Outcome?
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/74512232/164893183-91a970b9-dfbb-43d1-8772-e66a0b9d573d.mp4
 
-A few resources to get you started if this is your first Flutter project:
+## DISCLAIMER!!!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ALL OF THE ASSETS USED HAVE MIXED LICENSES. USE THEM FOR YOUR OWN RISK.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Assets references
+
+.png images:  https://freepik.com
+.jpg images:  https://pexels.com
+              https://unsplash.com
+              https://pixabay.com
+              https://freeimages.com
+.mp3 audio:   https://pixabay.com
+              https://freesound.org
+              https://www.freesoundslibrary.com
+              https://www.freesoundeffects.com
+              https://freeanimalsounds.org/
+              
+              
+
