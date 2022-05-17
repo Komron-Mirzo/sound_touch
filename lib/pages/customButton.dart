@@ -21,6 +21,7 @@ class CustomButton extends StatefulWidget {
 
 class _CustomButtonState extends State<CustomButton> {
   int customPopNumber = 1;
+
   void popImageNumberFunction() {
     setState(() {
       customPopNumber = Random().nextInt(3) + 1;
@@ -41,10 +42,10 @@ class _CustomButtonState extends State<CustomButton> {
         child: Image.asset(
             'assets/png/${widget.customRoot}${widget.customName}.png'),
         onPressed: () {
+          popImageNumberFunction();
           CustomButton.player.play(
             '${widget.customRoot}${widget.customName}$customPopNumber.mp3',
           );
-          popImageNumberFunction();
           showGeneralDialog(
             context: context,
             pageBuilder: (BuildContext context, Animation animation,
